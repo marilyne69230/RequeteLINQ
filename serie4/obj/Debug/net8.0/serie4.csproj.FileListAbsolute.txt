@@ -1,0 +1,14 @@
+C:\Users\ARMFR\source\repos\exercices\serie4\bin\Debug\net8.0\serie4.exe
+C:\Users\ARMFR\source\repos\exercices\serie4\bin\Debug\net8.0\serie4.deps.json
+C:\Users\ARMFR\source\repos\exercices\serie4\bin\Debug\net8.0\serie4.runtimeconfig.json
+C:\Users\ARMFR\source\repos\exercices\serie4\bin\Debug\net8.0\serie4.dll
+C:\Users\ARMFR\source\repos\exercices\serie4\bin\Debug\net8.0\serie4.pdb
+C:\Users\ARMFR\source\repos\exercices\serie4\obj\Debug\net8.0\serie4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ARMFR\source\repos\exercices\serie4\obj\Debug\net8.0\serie4.AssemblyInfoInputs.cache
+C:\Users\ARMFR\source\repos\exercices\serie4\obj\Debug\net8.0\serie4.AssemblyInfo.cs
+C:\Users\ARMFR\source\repos\exercices\serie4\obj\Debug\net8.0\serie4.csproj.CoreCompileInputs.cache
+C:\Users\ARMFR\source\repos\exercices\serie4\obj\Debug\net8.0\serie4.dll
+C:\Users\ARMFR\source\repos\exercices\serie4\obj\Debug\net8.0\refint\serie4.dll
+C:\Users\ARMFR\source\repos\exercices\serie4\obj\Debug\net8.0\serie4.pdb
+C:\Users\ARMFR\source\repos\exercices\serie4\obj\Debug\net8.0\serie4.genruntimeconfig.cache
+C:\Users\ARMFR\source\repos\exercices\serie4\obj\Debug\net8.0\ref\serie4.dll
